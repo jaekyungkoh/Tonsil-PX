@@ -41,6 +41,5 @@
         {"Name": "CD4", "Path": "CD4_4__CD4", "Colors": ["46f0f0"], "Channels": ["CD4"]}, 
         {"Name": "HLADR", "Path": "HLADR_5__HLADR-hBC30-86", "Colors": ["0082c8"], "Channels": ["HLADR_hBC30-86"]}, 
         {"Name": "HLAABC", "Path": "HLAABC_6__HLAABC-hBC30-85", "Colors": ["f032e6"], "Channels": ["HLAABC_hBC30-85"]}
-        {}
     ]
 }
